@@ -1,0 +1,3 @@
+docker image using paketo buildpack
+some changes in pom.xml
+mvn spring-boot:build-image
