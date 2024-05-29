@@ -11,6 +11,15 @@
         <option value="$PROJECT_DIR$/DockerizeMicroservices/Accounts/pom.xml" />
         <option value="$PROJECT_DIR$/DockerizeMicroservices/Cards/pom.xml" />
         <option value="$PROJECT_DIR$/DockerizeMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Accounts/pom.xml" />
       </list>
     </option>
   </component>

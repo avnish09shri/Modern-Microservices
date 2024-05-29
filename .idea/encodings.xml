@@ -13,5 +13,23 @@
     <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Cards/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Loans/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/loans/src/main/resources" charset="UTF-8" />
   </component>
 </project>
