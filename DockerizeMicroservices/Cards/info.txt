@@ -1,0 +1,3 @@
+build docker image with google jib plugin.
+
+mvn compile jib:dockerBuild
