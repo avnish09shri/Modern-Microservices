@@ -28,7 +28,13 @@
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Cards/pom.xml" />
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/pom.xml" />
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/EurekaServer/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">

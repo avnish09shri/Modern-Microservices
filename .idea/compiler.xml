@@ -29,6 +29,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cards (1) (com.eazybytes)" target="17" />
+      <module name="EurekaServer" target="17" />
       <module name="loans (1) (com.eazybytes)" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -47,6 +48,7 @@
       <module name="cards (3)" options="-parameters" />
       <module name="cards (4)" options="-parameters" />
       <module name="configserver" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
       <module name="loans" options="-parameters" />
       <module name="loans (1)" options="-parameters" />
       <module name="loans (1) (com.eazybytes)" options="-parameters" />
