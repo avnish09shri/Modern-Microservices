@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservices</groupId>
-	<artifactId>loans</artifactId>
+	<artifactId>eurekaserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>loans</name>
+	<name>eureka-server</name>
 	<packaging>jar</packaging>
 	<description>Microservice for Eureka Server</description>
 	<properties>

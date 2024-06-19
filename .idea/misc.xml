@@ -27,8 +27,12 @@
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Accounts/pom.xml" />
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Cards/pom.xml" />
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/pom.xml" />
-        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/pom.xml" />
         <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
