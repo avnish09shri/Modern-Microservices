@@ -33,6 +33,12 @@
         <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/pom.xml" />
         <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/pom.xml" />
         <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/gatewayserver/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
