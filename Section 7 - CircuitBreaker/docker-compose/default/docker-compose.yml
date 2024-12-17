@@ -1,4 +1,16 @@
 services:
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: [ "CMD-SHELL", "redis-cli ping | grep PONG" ]
+      timeout: 10s
+      retries: 10
+    extends:
+      file: common-config.yml
+      service: network-deploy-service
+
   accountsdb:
     container_name: accountsdb
     ports:
@@ -30,7 +42,7 @@ services:
       service: microservice-db-config
 
   configserver:
-    image: "avnish09/configserver:06"
+    image: "avnish09/configserver:07"
     container_name: configserver-ms
     restart: on-failure
     ports:
@@ -46,7 +58,7 @@ services:
       service: microservice-base-config
 
   eurekaserver:
-    image: "avnish09/eurekaserver:06"
+    image: "avnish09/eurekaserver:07"
     container_name: eurekaserver-ms
     restart: on-failure
     ports:
@@ -67,7 +79,7 @@ services:
       SPRING_APPLICATION_NAME: "eurekaserver"
 
   accounts:
-    image: "avnish09/accounts:06"
+    image: "avnish09/accounts:07"
     container_name: accounts-ms
     ports:
       - "8080:8080"
@@ -92,7 +104,7 @@ services:
       service: microservice-eureka-config
 
   loans:
-    image: "avnish09/loans:06"
+    image: "avnish09/loans:07"
     container_name: loans-ms
     ports:
       - "8090:8090"
@@ -117,7 +129,7 @@ services:
       service: microservice-eureka-config
 
   cards:
-    image: "avnish09/cards:06"
+    image: "avnish09/cards:07"
     container_name: cards-ms
     ports:
       - "9000:9000"
@@ -142,7 +154,7 @@ services:
       service: microservice-eureka-config
 
   gatewayserver:
-    image: "avnish09/gatewayserver:06"
+    image: "avnish09/gatewayserver:07"
     container_name: gatewayserver-ms
     restart: on-failure
     ports:
@@ -153,6 +165,8 @@ services:
       loans:
         condition: service_healthy
       cards:
+        condition: service_healthy
+      redis:
         condition: service_healthy
     environment:
       SPRING_APPLICATION_NAME: "gatewayserver"
