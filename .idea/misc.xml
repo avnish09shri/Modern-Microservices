@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BuildingMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/BuildingMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/BuildingMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/DockerizeMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/DockerizeMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/DockerizeMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6  - GatewayServer/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/Loans/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Section 5 - ServiceDiscovery/EurekaServer/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

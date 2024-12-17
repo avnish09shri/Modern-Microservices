@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildingMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DockerizeMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Profiles/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 3 - ConigServer/Section 3(b) - Config/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/gatewayserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
