@@ -48,10 +48,15 @@
     <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 4 - UsingMySQL/Loans/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Accounts/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Cards/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/ConfigServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/Loans/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 5 - ServiceDiscovery/eurekaserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Accounts/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 6  - GatewayServer/Cards/src/main/java" charset="UTF-8" />
@@ -76,5 +81,17 @@
     <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/eurekaserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/src/main/resources" charset="UTF-8" />
   </component>
 </project>

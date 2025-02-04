@@ -45,6 +45,12 @@
         <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/gatewayserver/pom.xml" />
         <option value="$PROJECT_DIR$/Section 7 - CircuitBreaker/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Loans/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
