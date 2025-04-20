@@ -3,12 +3,12 @@ server:
 spring:
   application:
     name: "accounts"
-  #profiles:
-    #active: "prod"
+  profiles:
+    active: "prod"
   datasource:
     url: jdbc:mysql://localhost:3307/accountsdb
     username: root
-    password: avnish
+    password: root
   jpa:
     show-sql: true
   sql:
