@@ -51,6 +51,19 @@
         <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/pom.xml" />
         <option value="$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 9 - Security/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/message/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

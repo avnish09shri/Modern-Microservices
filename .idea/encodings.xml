@@ -19,6 +19,19 @@
     <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Cards/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 1 - BuildingMicroservices/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/gatewayserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 10 - RabbitMQ and Cloud Function/message/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Accounts/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 2 - DockerizeMicroservices/Cards/src/main/java" charset="UTF-8" />
@@ -93,5 +106,17 @@
     <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/eurekaserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section 8 - Observability &amp; Monitoring/gatewayserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Accounts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Cards/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/Loans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/eurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 9 - Security/gatewayserver/src/main/resources" charset="UTF-8" />
   </component>
 </project>
